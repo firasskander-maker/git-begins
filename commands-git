@@ -1,6 +1,6 @@
-les commandes pour Cloner un repository:
+- les commandes pour Cloner un repository:
 git clone <URL_DU_DEPOT>
-les 3 comandes de push:
+- les 3 comandes de push:
 1- git add <ficher> 
 2- git commit -m "message"
 3- git push 
